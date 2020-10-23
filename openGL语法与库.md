@@ -1,5 +1,7 @@
 # openGL语法与库
 
+https://www.bilibili.com/video/BV1bA411Y7Gz?from=search&seid=16030957692515792854
+
 所有函数都以字符gl作为前缀
 
 要AGL、WGL、GLX这些库里的接口来建立。
